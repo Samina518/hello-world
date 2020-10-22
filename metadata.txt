@@ -1,4 +1,0 @@
-ami-3ea13f29
-i-0515800cdf73676ee
-ip-10-25-1-222.ec2.internal
-practiceweb-sg
